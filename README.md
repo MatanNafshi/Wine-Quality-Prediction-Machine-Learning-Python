@@ -1,4 +1,6 @@
 Wine Quality Prediction
+
+
 This project focuses on developing a machine learning pipeline to predict the quality of wine based on its physicochemical properties. The goal is to build an effective model that accurately predicts wine quality on a scale from 0 to 10, leveraging various machine learning techniques and feature engineering.
 
 Project Overview
