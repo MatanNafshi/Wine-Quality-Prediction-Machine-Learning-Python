@@ -25,6 +25,7 @@ Applied techniques such as feature extraction, class balancing, and statistical 
 **Modeling:**
 
 Multiple models were trained to predict wine quality, and efforts were made to improve model accuracy through hyperparameter tuning and cross-validation.
+
 ![image](https://github.com/user-attachments/assets/f716e5c4-1335-4c9d-bc12-5bb6f9e770b5)
 ![image](https://github.com/user-attachments/assets/0a56bc0f-347c-45bc-bd00-6fcf254fb5f0)
 ![image](https://github.com/user-attachments/assets/ba727673-82a4-4836-b8b5-50daee4ea781)
