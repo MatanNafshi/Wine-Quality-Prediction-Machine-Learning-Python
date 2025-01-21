@@ -36,14 +36,15 @@ Multiple models were trained to predict wine quality, and efforts were made to i
 **Dimensionality Reduction:**
 
 Techniques like Principal Component Analysis (PCA) and t-SNE were used to reduce the feature space and improve the model’s performance and interpretability.
-![image](https://github.com/user-attachments/assets/49f48c44-290e-4b4e-8f95-c64e9a52c0da)
+![image](https://github.com/user-attachments/assets/9e99c59c-ea1b-41cb-bb7b-1cc40e6ad7e0)
 ![image](https://github.com/user-attachments/assets/4b310321-969e-492e-bd88-addd0e7ae863)
 
 
 **Visualization:**
 
 Explored feature relationships and trends using Matplotlib to gain insights into the data.
-![image](https://github.com/user-attachments/assets/9e99c59c-ea1b-41cb-bb7b-1cc40e6ad7e0)
+
+![image](https://github.com/user-attachments/assets/49f48c44-290e-4b4e-8f95-c64e9a52c0da)
 
 
 ---
