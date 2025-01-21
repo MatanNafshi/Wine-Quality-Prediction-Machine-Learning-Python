@@ -66,8 +66,3 @@ The model successfully predicts wine quality with reasonable accuracy. Dimension
 
 ---
 
-**Future Improvements**
-
-- Explore more advanced techniques for feature selection.
-- Try different algorithms like XGBoost or Deep Learning models.
-- Further optimize the hyperparameters to improve accuracy.
